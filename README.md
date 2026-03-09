@@ -3,7 +3,7 @@ Lab for Dockerfile Dev Package
 
 ## Dev-bot
 
-These instructions are for building and running the dev-bot using the provided source files and a Dockerfile.
+These instructions are for building and running the dev-bot using the provided dev.py and requirements.txt source files and a user created Dockerfile.
 
 ## Prereqs
 
